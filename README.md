@@ -5,3 +5,5 @@
 3 git reset revierte el add
 4 git commit -m "mensaje" toma la fotografia crea la versiongit 
 5 git checkaut -- . revierte  todos los cambios del ultimo commit
+6 git log listado de los commit
+7 git commit --amend
