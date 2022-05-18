@@ -15,3 +15,4 @@
 13. git remote add origin https://github.com/jdcurdaneta/jdcurdaneta.git
 14. git branch -M main renobra el master a main
 15. git push -u origin main sube todo
+16. git commit -am "mensaje".  une add y commit un solo comando
