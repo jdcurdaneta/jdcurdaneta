@@ -8,5 +8,7 @@
 6 git log listado de los commit
 7 git commit --amend  acomoda el ultimo commit
 8 git checkaut -b ramas-desarrollo  crea una rama
-9 git branch lista las ramas
-10 git checkout master cambia la rama
+9 git marge rama une la rama al principal.
+10 git branch . lista las ramas
+11 git branch nombre de la rama.. cambia a la rama q quiero trabajar
+
